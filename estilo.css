@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  text-align: center;
+  background-image: url("https://caelum-online-public.s3.amazonaws.com/assets-imersaodev/Background.png");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center top;
+  height: 100vh;
+}
+
+.margem {
+  text-align: center;
+  padding: 20px;
+}
+
+.titulo {
+  color: #ffffff;
+  margin: 0 0 5px;
+}
